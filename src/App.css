@@ -4,11 +4,6 @@
 @tailwind utilities;
 
 
-/* Big test to confirm loading */
-body {
-  background-color: black !important;
-}
-
 /* Extra root-level CSS variables (formerly in index.css) */
 @layer base {
   :root {
